@@ -1,9 +1,7 @@
 import pymysql
 import traceback
 
-# host = "47.103.205.80"    # 阿里云
 
-# host = "182.242.36.175"   #台式机
 host = "172.18.40.39"  # 研究院笔记本
 # host = "127.0.0.1"
 user = "root"
